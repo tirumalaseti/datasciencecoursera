@@ -1,1 +1,1 @@
-## This is sample md file.
+## This is a markdown file.
